@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <title>Сайт-визитка</title>
+  <style>
+    body { font-family: Arial; text-align: center; background: #f0f0f0; }
+    .card { background: white; padding: 40px; margin: 50px auto; width: 400px; border-radius: 10px; box-shadow: 0 5px 15px rgba(0,0,0,0.2); }
+    h1 { color: #4CAF50; }
+  </style>
+</head>
+<body>
+  <div class="card">
+    <h1>Привет! Я sawrunners</h1>
+    <p>Начинающий веб‑разработчик и дизайнер.</p>
+    <p>Связь: <a href="https://t.me/sawrunners">Telegram</a></p>
+  </div>
+</body>
+</html>
